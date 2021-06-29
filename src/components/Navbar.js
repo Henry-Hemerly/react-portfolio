@@ -13,7 +13,7 @@ import {
 import { CgFileDocument } from 'react-icons/cg';
 
 function NavBar() {
-    const [expand, updateExpanded] = useState(false);
+    const [expand, updateExpanded] = useState(true);
     const [navColour, updateNavbar] = useState(false);
 
     function scrollHandler() {

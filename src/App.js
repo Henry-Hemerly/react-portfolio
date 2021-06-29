@@ -16,7 +16,7 @@ function App() {
     const [load, upadateLoad] = useState(true);
     useEffect(() => {
         setTimeout(() => {
-            upadateLoad(true);
+            upadateLoad(false);
         }, 1200);
     }, []);
 
