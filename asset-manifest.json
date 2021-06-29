@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.a87e82c3.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.519bb2d7.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.519bb2d7.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.6a2dd7e6.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.6a2dd7e6.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/react-portfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.2f8a937b.chunk.js": "/react-portfolio/static/js/2.2f8a937b.chunk.js",
+    "static/js/2.2f8a937b.chunk.js.map": "/react-portfolio/static/js/2.2f8a937b.chunk.js.map",
+    "static/js/3.9fa5090c.chunk.js": "/react-portfolio/static/js/3.9fa5090c.chunk.js",
+    "static/js/3.9fa5090c.chunk.js.map": "/react-portfolio/static/js/3.9fa5090c.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/react-portfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.a87e82c3.chunk.css.map": "/react-portfolio/static/css/main.a87e82c3.chunk.css.map",
+    "static/js/2.2f8a937b.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.2f8a937b.chunk.js.LICENSE.txt",
+    "static/media/CV.f64314c9.pdf": "/react-portfolio/static/media/CV.f64314c9.pdf",
+    "static/media/Logo.698d045b.svg": "/react-portfolio/static/media/Logo.698d045b.svg",
+    "static/media/about.aee0f771.png": "/react-portfolio/static/media/about.aee0f771.png",
+    "static/media/avatar.7f806e40.svg": "/react-portfolio/static/media/avatar.7f806e40.svg",
+    "static/media/crowd1.4c2a0199.jpg": "/react-portfolio/static/media/crowd1.4c2a0199.jpg",
+    "static/media/gameOfLife.d34c47b5.jpg": "/react-portfolio/static/media/gameOfLife.d34c47b5.jpg",
+    "static/media/style.css": "/react-portfolio/static/media/pre.4410c5ba.svg",
+    "static/media/home-main.359935c3.svg": "/react-portfolio/static/media/home-main.359935c3.svg",
+    "static/media/password.198bda1e.jpg": "/react-portfolio/static/media/password.198bda1e.jpg",
+    "static/media/phjalpen.0c80715a.jpg": "/react-portfolio/static/media/phjalpen.0c80715a.jpg",
+    "static/media/scoreboard.7887c5da.png": "/react-portfolio/static/media/scoreboard.7887c5da.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a2dd7e6.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.2f8a937b.chunk.js",
+    "static/css/main.a87e82c3.chunk.css",
+    "static/js/main.519bb2d7.chunk.js"
+  ]
+}
