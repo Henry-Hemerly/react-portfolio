@@ -27,7 +27,7 @@ function App() {
                 <Navbar />
                 <ScrollToTop />
                 <Switch>
-                    <Route path='/react-portfolio' exact component={Home} />
+                    <Route path='/react-portfolio' component={Home} />
                     <Route path='/project' component={Projects} />
                     <Route path='/about' component={About} />
                     <Route path='/resume' component={Resume} />
