@@ -24,11 +24,6 @@ function NavBar() {
         }
     }
 
-    function simulateClick(e) {
-        console.log('CLICK');
-        e.click();
-    }
-
     window.addEventListener('scroll', scrollHandler);
 
     return (
@@ -57,14 +52,13 @@ function NavBar() {
                         <Nav.Item>
                             <Nav.Link
                                 as={Link}
-                                to='/react-portfolio'
+                                to='/'
                                 onClick={() => updateExpanded(false)}
                             >
                                 <AiOutlineHome
                                     style={{ marginBottom: '2px' }}
                                 />{' '}
                                 Home
-                                {() => simulateClick()}
                             </Nav.Link>
                         </Nav.Item>
                         <Nav.Item>
