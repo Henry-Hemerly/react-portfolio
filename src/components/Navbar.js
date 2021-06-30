@@ -34,7 +34,7 @@ function NavBar() {
             className={navColour ? 'sticky' : 'navbar'}
         >
             <Container>
-                <Navbar.Brand href='/react-portfolio'>
+                <Navbar.Brand href='/'>
                     <img src={logo} className='img-fluid logo' alt='brand' />
                 </Navbar.Brand>
                 <Navbar.Toggle
