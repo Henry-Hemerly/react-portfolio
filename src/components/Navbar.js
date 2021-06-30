@@ -57,7 +57,7 @@ function NavBar() {
                         <Nav.Item>
                             <Nav.Link
                                 as={Link}
-                                to='/'
+                                to='/react-portfolio'
                                 onClick={() => updateExpanded(false)}
                             >
                                 <AiOutlineHome
