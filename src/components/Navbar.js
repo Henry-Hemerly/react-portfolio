@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import Container from 'react-bootstrap/Container';
@@ -13,7 +13,7 @@ import {
 import { CgFileDocument } from 'react-icons/cg';
 
 function NavBar() {
-    const [expand, updateExpanded] = useState(true);
+    const [expand, updateExpanded] = useState(false);
     const [navColour, updateNavbar] = useState(false);
 
     function scrollHandler() {
@@ -22,6 +22,11 @@ function NavBar() {
         } else {
             updateNavbar(false);
         }
+    }
+
+    function simulateClick(e) {
+        console.log('CLICK');
+        e.click();
     }
 
     window.addEventListener('scroll', scrollHandler);
@@ -59,6 +64,7 @@ function NavBar() {
                                     style={{ marginBottom: '2px' }}
                                 />{' '}
                                 Home
+                                {() => simulateClick()}
                             </Nav.Link>
                         </Nav.Item>
                         <Nav.Item>
