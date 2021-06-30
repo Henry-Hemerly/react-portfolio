@@ -58,7 +58,7 @@ function NavBar() {
                             <Nav.Link
                                 as={Link}
                                 to='/react-portfolio'
-                                onClick={() => updateExpanded(false)}
+                                // onClick={() => updateExpanded(false)}
                             >
                                 <AiOutlineHome
                                     style={{ marginBottom: '2px' }}
